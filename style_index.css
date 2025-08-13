@@ -1,0 +1,73 @@
+body {
+    background-image: url(img/Fondos/Fondo.jpeg);
+
+}
+
+h1 {
+    margin: 50px 0 75px 0;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img:hover {
+    opacity: 0;
+}
+
+#AM_id, #FOL_id, #Sgt_PLHCB,#Abbey_Road_id,#EWO_id, #The_New_Abnormal_id, #Twicetagram_id, 
+#Thriller_id, #Taste_of_Love_id, #Fancy_You_id, #This_is_For_id {
+    margin: 55px 0 55px 110px;
+    float: left;
+}
+/* info de cada album */
+#AM_id, #FOL_id, #Sgt_PLHCB, #Abbey_Road_id, #EWO_id, #The_New_Abnormal_id, #Twicetagram_id, 
+#Thriller_id, #Taste_of_Love_id, #Fancy_You_id, #This_is_For_id:hover {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#AM_id:hover {
+    background-image: url(img/Info/Info=AM\ -\ Arctic\ Monkeys.jpeg);
+}
+
+#FOL_id:hover {
+    background-image: url(img/Info/Info=Formula\ of\ Love\ -\ Twice.jpeg);
+}
+
+#Sgt_PLHCB:hover {
+    background-image: url(img/Info/Info=Sgt.\ Peppers\ Lonely\ Hearts\ Club\ Band\ -\ The\ Beatles.jpeg);
+}
+
+#Abbey_Road_id:hover {
+    background-image: url(img/Info/Info=Abbey\ Road\ -\ The\ Beatles.jpeg);
+}
+
+#EWO_id:hover {
+    background-image: url(img/Info/Info=Eyes\ Wide\ Open\ -\ Twice.jpeg);
+}
+
+#The_New_Abnormal_id {
+    background-image: url(img/Info/Info=The\ New\ Abnormal\ -\ The\ Strokes.jpeg);
+}
+
+#Twicetagram_id {
+    background-image: url(img/Info/Info=Twicetagram\ -\ Twice.jpeg);
+}
+
+#Thriller_id {
+    background-image: url(img/Info/Info=Thriller\ -\ Michael\ Jackson.jpeg);
+}
+
+#Taste_of_Love_id {
+    background-image: url(img/Info/Info=Taste\ of\ Love\ -\ Twice.jpeg);
+}
+
+#Fancy_You_id {
+    background-image: url(img/Info/Info=Fancy\ You\ -\ Twice.jpeg);
+}
+
+#This_is_For_id {
+    background-image: url(img/Info/Info=This\ is\ For\ Deluxe\ -\ Twice.jpeg);
+}

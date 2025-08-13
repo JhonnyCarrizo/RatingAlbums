@@ -1,0 +1,76 @@
+/* Fondo de la pagina */
+body {
+    background-image: url(img/Fondos/Fondo_Rojo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* Link del album */
+.Link_Album {
+    float: right;
+}
+/* Portada del album */
+#Sgt_PLHCB_img {
+    margin: 75px 0 0 100px;
+}
+/* Informacion del album */
+.Sgt_PLHCB_Informacion {
+    margin: 0 0 0 0;
+    width: 700px; height: 550px;
+    float: right;
+}
+/* texto de Informacion */
+#Sgt_PLHCB_text {
+    margin: 90px 0 0 45px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0px;
+    color: black;
+}
+/* Calificacion del album */
+/* Notas */
+#Sgt_PLHCB_nota, #JesusJhonny_nota {
+    margin: 50px 0 0 50px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 3px 3px 0 black;
+}
+/* Nota final */
+#Sgt_PLHCB_nota {
+  margin: 50px 0 0 50px;  
+}
+/* Estrella de la calificacion final del album */
+#estrella_final {
+    float: right;
+    margin: -85px 200px 0 0;
+}
+
+.Tracks {
+    margin: 250px 0 0 0;
+
+}
+#Track_title {
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+#Sgt_PLHCB_tracks {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#Sgt_PLHCB_calificacion {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+}
+
+p {
+    text-align: center;
+}

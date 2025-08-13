@@ -1,0 +1,78 @@
+/* Fondo de la pagina */
+body {
+    background-color: #3D82C7;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* Link del album */
+.Link_Album {
+    float: right;
+}
+/* Portada del album */
+#Twicetagram_img {
+    margin: 75px 0 0 100px;
+}
+/* Informacion del album */
+.Twicetagram_Informacion {
+    margin: 0 0 0 0;
+    width: 700px; height: 550px;
+    float: right;
+}
+/* texto de Informacion */
+#Twicetagram_text {
+    margin: 90px 0 0 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0px;
+    color: black;
+    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-width: 0.1px;
+}
+/* Calificacion del album */
+/* Notas */
+#Twicetagram_nota, #JesusJhonny_nota {
+    margin: 50px 0 0 50px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 3px 3px 0 black;
+}
+/* Nota final */
+#Twicetagram_nota {
+  margin: 50px 0 0 50px;  
+}
+/* Estrella de la calificacion final del album */
+#estrella_final {
+    float: right;
+    margin: -85px 200px 0 0;
+}
+
+.Tracks {
+    margin: 250px 0 0 0;
+
+}
+#Track_title {
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+#Twicetagram_tracks {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#Twicetagram_calificacion {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+}
+
+p {
+    text-align: center;
+}

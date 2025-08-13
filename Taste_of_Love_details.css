@@ -1,0 +1,76 @@
+/* Fondo de la pagina */
+body {
+    background-color: #113F95;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* Link del album */
+.Link_Album {
+    float: right;
+}
+/* Portada del album */
+#Taste_of_Love_img {
+    margin: 75px 0 0 100px;
+}
+/* Informacion del album */
+.Taste_of_Love_Informacion {
+    margin: 0 0 0 0;
+    width: 700px; height: 550px;
+    float: right;
+}
+/* texto de Informacion */
+#Taste_of_Love_text {
+    margin: 90px 0 0 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0px;
+    color: black;
+}
+/* Calificacion del album */
+/* Notas */
+#Taste_of_Love_nota, #JesusJhonny_nota {
+    margin: 50px 0 0 50px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 3px 3px 0 black;
+}
+/* Nota final */
+#Taste_of_Love_nota {
+  margin: 50px 0 0 50px;  
+}
+/* Estrella de la calificacion final del album */
+#estrella_final {
+    float: right;
+    margin: -85px 200px 0 0;
+}
+
+.Tracks {
+    margin: 250px 0 0 0;
+
+}
+#Track_title {
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+#Taste_of_Love_tracks {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#Taste_of_Love_calificacion {
+    margin: 0 0 100px 0;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
