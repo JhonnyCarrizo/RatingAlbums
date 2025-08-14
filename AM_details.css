@@ -9,8 +9,9 @@
 
 #portada, #informacion {
     float: left;
-    width: 663px;
+    width: 500px;
     height: 500px
+    margin: 0 150px 0 0;
 }
 
 /* Portada del album */
@@ -21,4 +22,5 @@ border: 2px solid green;
 /* Informacion del album */
 #informacion {
 border: 2px solid red;
+
 }
