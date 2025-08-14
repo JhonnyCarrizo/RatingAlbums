@@ -11,7 +11,7 @@
     float: left;
     width: 500px;
     height: 500px;
-    margin: 0 150px 0 0;
+    margin: 55px 0 55px 110px;
 }
 
 /* Portada del album */
@@ -22,4 +22,5 @@ border: 2px solid green;
 /* Informacion del album */
 #informacion {
 border: 2px solid red;
+
 }
