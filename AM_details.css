@@ -8,12 +8,16 @@
     height: 30px;
 }
 
+@media (min-width: 250px) and (max-width: 500px) {
+    
+}
+
 #youtube, #spotify {
     float: right;
 }
 
 #portada, #informacion {
-    width: 49%;
+    width: 500px;
     height: 500px;
 }
 
